@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="HighScores">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="5" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="308" y="20" width="319" height="314"/>
+    </constraints>
+    <properties>
+      <background color="-13421514"/>
+      <foreground color="-14144460"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="b1331" class="javax.swing.JList" binding="JList" default-binding="true">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="2" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13421514"/>
+          <font name="Source Sans Pro Light" size="16" style="1"/>
+          <foreground color="-4210753"/>
+          <layoutOrientation value="2"/>
+          <selectionForeground color="-14144460"/>
+        </properties>
+      </component>
+      <component id="4c93e" class="javax.swing.JLabel" binding="Tittle">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="3" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Roboto Light" size="18" style="1"/>
+          <foreground color="-4210753"/>
+          <text value="High Scores"/>
+        </properties>
+      </component>
+      <vspacer id="b3d6c">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="8cd1c">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="6c5f3">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+    </children>
+  </grid>
+  <inspectionSuppressions>
+    <suppress inspection="NoLabelFor" id="888f2"/>
+  </inspectionSuppressions>
+</form>
