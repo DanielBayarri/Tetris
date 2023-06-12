@@ -1,14 +1,14 @@
 # Tetris
 
+## Descripción 📑
+
+Proyecto del juego de Tetris hecho con Java
+
 ## Autor ✒️
 **Daniel Bayarri**
 
 * [d.bayarri.b@gmail.com](d.bayarri.b@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/danielbayarri/)
-
-## Descripción 📑
-
-Proyecto del juego de Tetris hecho con Java
 
 ## Tecnologías 🛠
 
