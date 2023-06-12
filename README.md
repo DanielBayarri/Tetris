@@ -1,5 +1,11 @@
 # Tetris
 
+## Autor ✒️
+**Daniel Bayarri**
+
+* [d.bayarri.b@gmail.com](d.bayarri.b@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/danielbayarri/)
+
 ## Descripción 📑
 
 Proyecto del juego de Tetris hecho con Java
@@ -12,9 +18,3 @@ Proyecto del juego de Tetris hecho con Java
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
 ![Captura del proyecto](https://repository-images.githubusercontent.com/651967614/217184f7-9b87-4b3d-9161-75b9734cd3fb)
-
-## Autor ✒️
-**Daniel Bayarri**
-
-* [d.bayarri.b@gmail.com](d.bayarri.b@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/danielbayarri/)
